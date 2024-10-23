@@ -1,0 +1,131 @@
+body{
+    background-color: #f2e2c4;
+}
+.logo1{
+    width: 150px;
+    height: 150px;
+    z-index: 5;
+}
+.navbar-toggler{
+    border: #D9A362 solid 3px;
+    background-color: #D9A362;
+}
+.offcanvas-header{
+    background-color: #D9A362;
+    font-family: Niramit;
+}
+.offcanvas-body{
+    background-color: #f2e2c4;
+    font-family: Niramit;
+}
+#nav_principal{
+    background-image: url(../img/fundo_nav\ \(1\).jpg);
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.Menu_reserva{
+    background-image: url(../img/nav_reserva.jpg);
+    width: 100%;
+    height: 100px;
+    margin-top: 11pc;
+    justify-content: center;
+    gap: 10px;
+    font-family: Niramit;
+}
+.col-md{
+    display: flex;
+}
+.form-floating{
+    border-radius: 10px;
+    background-color: #f2e2c4;
+    border: #402325 solid 2px;
+    color: #D9A362;
+}
+.historia{
+    margin-top: 10pc;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+.conhecer{
+    color: #402325;
+    font-family: Noto Serif Oriy;
+    width: 50%;
+    margin-top: -10pc;
+    margin-left: 50px;
+}
+.img_home{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: -10pc;
+
+}
+.vantagens{
+    left: 10px;
+    display: flex;
+    margin-top: 35pc;
+    margin-left: -80pc;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.boxs{ 
+    align-items: center;
+}
+.icons{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    background-image: url(../img/nav_reserva.jpg);
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.redes-socias{
+    padding: 15px;
+    gap: 20px;
+    display: flex;
+}
+.acomoda{
+    margin-bottom: 100px;
+    border-radius: 10px;
+    color: #402325;
+    font-family: Noto Serif Oriy;
+    width: 80%;
+    height: auto;
+    margin-top: 15pc;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+}
+h3{
+    font-size: 20px;
+}
+.imgs{
+    width: 500px;
+    height: 300px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+p{
+    font-size: 15px;
+    font-family: Niramit;
+
+}
+.redes{
+    width: 50px;
+    height: 50px;
+}
+h5{
+    font-family: Niramit;
+    font-size: 15px;
+}
+h6{
+    color: #f2e2c4;
+    font-family: Niramit;
+    font-size: 15px;
+}

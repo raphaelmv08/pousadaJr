@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Oriya:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+button{
+    background-color: #f2e2c4;
+}
+a{
+    text-decoration: none;
+    size: 10px;
+    color: #f2e2c4;
+    font-family: Niramit;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50pc;
+    margin-left: -40pc;
+}
+h4{
+    font-family: Niramit;
+}

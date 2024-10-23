@@ -1,0 +1,37 @@
+body{
+    font-family: Niramit;
+}
+.manim{
+    margin-top: 61px;
+}
+.shows{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gustavo{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+h2{
+    color: #d9a364;
+    font-family: Niramit;
+}
+
+
+h5{
+    font-family: Niramit;
+    font-size: 15px;
+}
+h6{
+    color: #f2e2c4;
+    font-family: Niramit;
+    font-size: 15px;
+}
+.redes-socias-eve{
+    margin-top: 12pc;
+    height: auto;    
+    gap: 20px;
+    width: 100%;
+    display: flex;
+}
